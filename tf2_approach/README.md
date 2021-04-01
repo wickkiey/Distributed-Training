@@ -34,11 +34,11 @@ Scale your training onto
 
 
 ### List of strategies. 
-MirroredStrategy	
-TPUStrategy	
-MultiWorkerMirroredStrategy	
-CentralStorageStrategy	
-ParameterServerStrategy
+* MirroredStrategy	
+* TPUStrategy	
+* MultiWorkerMirroredStrategy	
+* CentralStorageStrategy	
+* ParameterServerStrategy
 
 
 
