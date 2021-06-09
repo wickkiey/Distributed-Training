@@ -6,8 +6,8 @@ Reference : https://www.tensorflow.org/guide/distributed_training
 ### API
 
 `tf.distribute.Strategy`
-* Multiple GPU
-* Multiple Machines
+* Multiple GPU (Single Worker)
+* Multiple GPU (Multiple Workers)
 * Multiple TPUs
 
 ### Program Execution methods
